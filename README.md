@@ -45,7 +45,7 @@ Ordered and Unordered List
 ```
 
 ## OUTPUT
-
+![alt text](image.png)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
