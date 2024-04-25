@@ -19,7 +19,30 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
+<head>
+<title>
+Ordered and Unordered List
+</title>
+</head>
+<body>
+<h1> list of fruits </h1>
+<ul>
+<li> Apple </li>
+<li> Mango </li>
+<li> Pineapple </li>
+</ul>
+<h2> List of vegetables </h2>
+<ol>
+<li> Tomato </li>
+<li> Carrot </li>
+<li> Potato </li>
+</ol>
 
+</body>
+</html>
+```
 
 ## OUTPUT
 
